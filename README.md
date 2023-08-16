@@ -22,8 +22,8 @@ To use the Recipe Application, simply follow these steps:
 
 1. Clone this repository to your local machine:
    ```bash
-  https://github.com/tanug484/recipe_App.git)https://github.com/tanug484/recipe_App.git
+ https://github.com/tanug484/recipe_App.git
 2. Open the index.html file in your preferred web browser to access the application.
 
-To view the actual application link on the link below:
+To view the actual application click on the link below:
 Live Demo: https://recpieapp.netlify.app/
