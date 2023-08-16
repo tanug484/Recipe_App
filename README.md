@@ -1,4 +1,4 @@
-# Recipe Application
+# Recipe Application😋
 
 Welcome to the Recipe Application! This is a frontend-only web application that allows users to explore a collection of delicious recipes. 
 The application is built entirely using JavaScript and interacts with external APIs to fetch recipe data and provide an enjoyable culinary experience.
@@ -21,7 +21,6 @@ The application is built entirely using JavaScript and interacts with external A
 To use the Recipe Application, simply follow these steps:
 
 1. Clone this repository to your local machine:
-   ```bash
  https://github.com/tanug484/recipe_App.git
 2. Open the index.html file in your preferred web browser to access the application.
 
